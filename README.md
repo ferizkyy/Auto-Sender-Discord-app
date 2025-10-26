@@ -78,16 +78,19 @@ Follow these steps to obtain it:
 
 
 1. Click F12 in your keyboard to enter developer mode
+   
 ![auth-code-guide](screenshoot/DeveloperMode.png)
 
 Click Network
 
 2. Send 1 massage
+   
 ![auth-code-guide](screenshoot/massage.png)
 
 Click massage request 
 
 3. Find request headers
+   
 ![auth-code-guide](screenshoot/authorization.png)
 
 Input your authorization code
@@ -100,16 +103,19 @@ Input your authorization code
 Provide the **message link** or **webhook link** where messages should be sent.
 
 1. Click F12 in your keyboard to enter developer mode
+   
 ![auth-code-guide](screenshoot/DeveloperMode.png)
 
 Click Network
 
 2. Send 1 massage
+   
 ![auth-code-guide](screenshoot/massage.png)
 
 Click massage request
 
 3. In general you can see the url
+   
 ![auth-code-guide](screenshoot/link.png)
 
 Input to the link with Request URL
