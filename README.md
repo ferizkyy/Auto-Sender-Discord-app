@@ -8,10 +8,10 @@ This project provides a clean, user-friendly interface with real-time status upd
 ##  Screenshots
 
 ###  Main Window
-![main-window](Main.png)
+![main-window](screenshoot/Main.png)
 
 ###  Info Window
-![info-window](info.png)
+![info-window](screenshoot/info.png)
 
 ---
 
